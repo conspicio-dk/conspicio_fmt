@@ -43,4 +43,4 @@ A simple usage example for List:
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/conspicio-dk/conspicio_fmt/issues
