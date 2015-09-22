@@ -1,0 +1,14 @@
+name: conspicio_fmt
+description: Simple string formating library like those found in Java or .NET.
+version: 0.9.0
+author: Bjarne Hansen <bjarne@conspicio.dk>
+homepage: https://www.conspicio.dk
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  intl: ">= 0.12.4+2"
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
